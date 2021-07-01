@@ -1,0 +1,103 @@
+{
+  "Background": {
+      "Image": {
+          "X": 0,
+          "Y": 0,
+          "ImageIndex": 0
+      }
+  },
+  "Time": {
+      "Hours": {
+          "Tens": {
+              "X": 4,
+              "Y": 0,
+              "ImageIndex": 1,
+              "ImagesCount": 10
+          },
+          "Ones": {
+              "X": 43,
+              "Y": 0,
+              "ImageIndex": 1,
+              "ImagesCount": 10
+          }
+      },
+      "Minutes": {
+          "Tens": {
+              "X": 96,
+              "Y": 0,
+              "ImageIndex": 11,
+              "ImagesCount": 10
+          },
+          "Ones": {
+              "X": 135,
+              "Y": 0,
+              "ImageIndex": 11,
+              "ImagesCount": 10
+          }
+      }
+  },
+  "Date": {
+      "WeekDay": {
+          "X": 8,
+          "Y": 135,
+          "ImageIndex": 51,
+          "ImagesCount": 7
+      },
+      "MonthAndDay": {
+          "TwoDigitsMonth": true,
+          "TwoDigitsDay": true,
+          "Separate": {
+              "Day": {
+                  "TopLeftX": 122,
+                  "TopLeftY": 135,
+                  "BottomRightX": 139,
+                  "BottomRightY": 154,
+                  "Alignment": "TopLeft",
+                  "Spacing": 2,
+                  "ImageIndex": 41,
+                  "ImagesCount": 10
+              },
+              "Month": {
+                  "TopLeftX": 152,
+                  "TopLeftY": 135,
+                  "BottomRightX": 169,
+                  "BottomRightY": 154,
+                  "Alignment": "TopLeft",
+                  "Spacing": 2,
+                  "ImageIndex": 41,
+                  "ImagesCount": 10
+              }
+          }
+      }
+  },
+  "Battery": {
+      "Icon": {
+          "X": 150,
+          "Y": 161,
+          "ImageIndex": 58,
+          "ImagesCount": 6
+      }
+  },
+  "Activity": {
+      "Steps": {
+          "TopLeftX": 26,
+          "TopLeftY": 160,
+          "BottomRightX": 68,
+          "BottomRightY": 170,
+          "Alignment": "TopRight",
+          "Spacing": 2,
+          "ImageIndex": 31,
+          "ImagesCount": 10
+      },
+      "Pulse": {
+          "TopLeftX": 104,
+          "TopLeftY": 160,
+          "BottomRightX": 128,
+          "BottomRightY": 169,
+          "Alignment": "TopRight",
+          "Spacing": 2,
+          "ImageIndex": 31,
+          "ImagesCount": 10
+      }
+  }
+}
